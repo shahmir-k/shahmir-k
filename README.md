@@ -2,12 +2,12 @@
 
 A real code grinder 🤓 B.Eng Computer and Electrical Engineering
 
-
+<br><br>
 
 (From most proficient to least)
 
 ## Best languages:
-C, C++, C#, Java, Go, JavaScript, Python
+C, C++, C#, Java, Go, JavaScript, React/ReactNative, Python
 
 ## Medium languages: 
 Rust, MATLAB, Kotlin
