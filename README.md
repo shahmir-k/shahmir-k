@@ -1,8 +1,10 @@
-A real code grinder 🤓 B.Eng Computer and Electrical Engineering
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmir-k&layout=compact&theme=dark)
 
-From most proficient to least
+A real code grinder 🤓 B.Eng Computer and Electrical Engineering
+
+
+
+(From most proficient to least)
 
 ## Best languages:
 C, C++, C#, Java, Go, JavaScript, Python
