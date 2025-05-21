@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmir-k&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmir-k&layout=compact&theme=dark)
 <!--
 **shahmir-k/shahmir-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
