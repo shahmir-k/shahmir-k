@@ -4,11 +4,14 @@ A real code grinder 🤓 B.Eng Computer and Electrical Engineering
 
 From most proficient to least
 
-Best languages: C, C++, C#, Java, Go, JavaScript, Python
+##Best languages:
+C, C++, C#, Java, Go, JavaScript, Python
 
-Medium languages: Rust, MATLAB, Kotlin
+##Medium languages: 
+Rust, MATLAB, Kotlin
 
-Can manage: COBOL, Pure Assembly
+##Can manage: 
+COBOL, Pure Assembly
 <!--
 **shahmir-k/shahmir-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
