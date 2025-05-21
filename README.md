@@ -1,4 +1,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmir-k&layout=compact&theme=dark)
+
+From most proficient to least
+Best languages: C, C++, C#, Java, Go, JavaScript, Python
+Medium languages: Rust, MATLAB, Kotlin
+Can manage: COBOL, Pure Assembly
 <!--
 **shahmir-k/shahmir-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
