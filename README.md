@@ -4,7 +4,7 @@ A real code grinder 🤓 B.Eng Computer and Electrical Engineering
 
 <br><br>
 
-(From most proficient to least)
+(From most proficient to least) I know more than this, this is just what I can remember from the top of my head
 
 ## Best languages:
 C, C++, C#, Java, Go, JavaScript, React/ReactNative, Python
