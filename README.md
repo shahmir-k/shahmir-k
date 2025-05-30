@@ -9,7 +9,7 @@
 (From most proficient to least) I know more than this, these are just some of my favourites
 
 ## Best languages:
-C, C++, C#, Java, Go, JavaScript, React/ReactNative, Python
+C, C++, C#, Java, Python, Go/Golang, JavaScript, React/ReactNative
 
 ## Medium languages: 
 Rust, MATLAB, Kotlin
