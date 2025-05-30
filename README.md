@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahmir-k&layout=compact&theme=dark)
 
-A real code grinder 
+
 
 🤓 B.Eng Computer and Electrical Engineering
 
