@@ -14,8 +14,6 @@ C, C++, C#, Java, Python, Go/Golang, JavaScript, React/ReactNative
 ## Medium languages: 
 Rust, MATLAB, Kotlin
 
-## Can manage: 
-COBOL, Pure Assembly
 <!--
 **shahmir-k/shahmir-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
