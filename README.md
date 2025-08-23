@@ -1,4 +1,6 @@
-![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=compact&theme=dark)
+
+![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=donut&theme=dark)
 
 🤓 B.Eng Computer and Electrical Engineering
 
