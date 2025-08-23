@@ -19,7 +19,6 @@ Rust, MATLAB, Kotlin
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=ReactNative-WebRTCApp)](https://github.com/shahmir-k/ReactNative-WebRTCApp)
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=Bootlogo-Manager-muOS)](https://github.com/shahmir-k/Bootlogo-Manager-muOS)
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=webrtc-tutorial-Go-Backend)](https://github.com/shahmir-k/webrtc-tutorial-Go-Backend)
-[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=Linkedin-EasyApply-StealthBot)](https://github.com/shahmir-k/Linkedin-EasyApply-StealthBot)
 
 <!-->
 
