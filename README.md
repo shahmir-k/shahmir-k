@@ -18,7 +18,7 @@ Rust, MATLAB, Kotlin
 
 # Extra Pins
 
-[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=ReactNative-WebRTCApp)](https://github.com/shahmir-k/ReactNative-WebRTCApp)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=ReactNative-WebRTCApp)](https://github.com/shahmir-k/ReactNative-WebRTCApp)
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/Bootlogo-Manager-muOS)
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/webrtc-tutorial-Go-Backend)
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/Linkedin-EasyApply-StealthBot)
