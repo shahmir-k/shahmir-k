@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-phi-dusky.vercel.app//api/top-langs/?username=shahmir-k&hide=html&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-phi-dusky.vercel.app//api/top-langs/?username=shahmir-k&langs-count=20&layout=compact&theme=dark)
 
 
 
@@ -14,6 +14,11 @@ C, C++, C#, Java, Python, Go/Golang, JavaScript, React/ReactNative
 ## Medium languages: 
 Rust, MATLAB, Kotlin
 
+
+
+# Extra Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shahmir-k/shahmir-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
