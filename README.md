@@ -19,10 +19,22 @@ Rust, MATLAB, Kotlin
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=ReactNative-WebRTCApp)](https://github.com/shahmir-k/ReactNative-WebRTCApp)
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=Bootlogo-Manager-muOS)](https://github.com/shahmir-k/Bootlogo-Manager-muOS)
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=webrtc-tutorial-Go-Backend)](https://github.com/shahmir-k/webrtc-tutorial-Go-Backend)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=pionly-stunturn-server-seperate-logging)](https://github.com/shahmir-k/pionly-stunturn-server-seperate-logging)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=PureC-LVGL-v9-SDL2-Example-Without-Display-Driver)](https://github.com/shahmir-k/PureC-LVGL-v9-SDL2-Example-Without-Display-Driver)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=ENGG41X0-Final-Project)](https://github.com/shahmir-k/ENGG41X0-Final-Project)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=radiomaster-tx16s-mods)](https://github.com/shahmir-k/radiomaster-tx16s-mods)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=Eovan-GTS-Carbon-Pro)](https://github.com/shahmir-k/Eovan-GTS-Carbon-Pro)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=ebike)](https://github.com/shahmir-k/ebike)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=ArduinoBlueIris)](https://github.com/shahmir-k/ArduinoBlueIris)
 
-<!-->
+<br><br>
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=AutoGarden)](https://github.com/shahmir-k/AutoGarden)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=GrowBox-AutoRefill)](https://github.com/shahmir-k/GrowBox-AutoRefill)
+
+<!--
 
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=github-readme-stats)]()
+
 -->
 
 <!--
