@@ -1,7 +1,5 @@
 ![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&layout=compact&theme=dark)
 
-
-
 🤓 B.Eng Computer and Electrical Engineering
 
 <br><br>
@@ -9,20 +7,24 @@
 (From most proficient to least) I know more than this, these are just some of my favourites
 
 ## Best languages:
+
 C, C++, C#, Java, Python, Go/Golang, JavaScript, React/ReactNative
 
-## Medium languages: 
+## Medium languages:
+
 Rust, MATLAB, Kotlin
-
-
 
 # Extra Pins
 
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=ReactNative-WebRTCApp)](https://github.com/shahmir-k/ReactNative-WebRTCApp)
-[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/Bootlogo-Manager-muOS)
-[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/webrtc-tutorial-Go-Backend)
-[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/Linkedin-EasyApply-StealthBot)
-[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]()
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=Bootlogo-Manager-muOS)](https://github.com/shahmir-k/Bootlogo-Manager-muOS)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=webrtc-tutorial-Go-Backend)](https://github.com/shahmir-k/webrtc-tutorial-Go-Backend)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=Linkedin-EasyApply-StealthBot)](https://github.com/shahmir-k/Linkedin-EasyApply-StealthBot)
+
+<!-->
+
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=github-readme-stats)]()
+-->
 
 <!--
 **shahmir-k/shahmir-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
