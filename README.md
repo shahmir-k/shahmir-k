@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-phi-dusky.vercel.app//api/top-langs/?username=shahmir-k&langs_count=20&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&layout=compact&theme=dark)
 
 
 
@@ -18,7 +18,12 @@ Rust, MATLAB, Kotlin
 
 # Extra Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/ReactNative-WebRTCApp)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/Bootlogo-Manager-muOS)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/webrtc-tutorial-Go-Backend)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/shahmir-k/Linkedin-EasyApply-StealthBot)
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]()
+
 <!--
 **shahmir-k/shahmir-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
