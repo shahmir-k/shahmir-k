@@ -4,6 +4,16 @@
 [![GitHub stars](https://img.shields.io/github/stars/shahmir-k?affiliations=OWNER&style=social)](https://github.com/shahmir-k)
 [![GitHub watchers](https://img.shields.io/github/watchers/shahmir-k/shahmir-k?style=social)](https://github.com/shahmir-k/shahmir-k)
 
+🤓 B.Eng Computer and Electrical Engineering
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=compact&theme=dark&bg_image=cherry-blossom&bg_image_opacity=1.0)
+
+![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=donut&theme=dark&border-radius=5.5&bg_image_opacity=1.0&bg_image=cherry-blossom)
+
+
+
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
@@ -62,13 +72,6 @@
 ![PCB](https://img.shields.io/badge/PCB-000000?logo=pcb&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=compact&theme=dark&bg_image=cherry-blossom&bg_image_opacity=1.0)
-
-![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=donut&theme=dark&border-radius=5.5&bg_image_opacity=1.0&bg_image=cherry-blossom)
-
-🤓 B.Eng Computer and Electrical Engineering
 
 <br><br>
 
