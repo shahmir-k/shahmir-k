@@ -66,6 +66,7 @@
 
 ![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=compact&theme=dark&bg_image=https://thumbs.dreamstime.com/b/creative-floral-template-cherry-blossom-sakura-flower-petal-floral-branch-falling-flying-flow-fall-fly-transparent-cutout-png-331627758.jpg)
 
+![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=donut&theme=dark&bg_image_opacity=1.0&bg_image=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fdark-cherry-blossom-4inr5t9apo6ay8wt.jpg)
 
 ![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=donut&theme=dark&bg_image_opacity=1.0&bg_image=https://wallpapers.com/images/hd/dark-cherry-blossom-4inr5t9apo6ay8wt.jpg)
 
