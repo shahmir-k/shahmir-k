@@ -16,8 +16,7 @@
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
-
+#### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -29,8 +28,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=orange)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 
-### Web Technologies
-
+#### Web Technologies
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
@@ -38,15 +36,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
 
-### Embedded & IoT
-
+#### Embedded & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white)
 ![LVGL](https://img.shields.io/badge/LVGL-000000?logo=lvgl&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-000000?logo=sdl&logoColor=white)
 
-### Development Tools
-
+#### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
@@ -54,21 +50,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 
-### Cloud & Services
-
+#### Cloud & Services
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 
-### Operating Systems
-
+#### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linux-mint&logoColor=white)
 
-### Hardware & Electronics
-
+#### Hardware & Electronics
 ![PCB](https://img.shields.io/badge/PCB-000000?logo=pcb&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
 
