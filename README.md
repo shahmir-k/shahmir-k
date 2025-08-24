@@ -12,11 +12,10 @@
 
 ![Top Langs](https://github-readme-stats-phi-dusky.vercel.app/api/top-langs/?username=shahmir-k&langs_count=20&hide=html&layout=donut&theme=dark&border-radius=5.5&bg_image_opacity=1.0&bg_image=cherry-blossom)
 
-
-
 ## 🛠️ Technologies & Tools
 
 #### Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -29,6 +28,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 
 #### Web Technologies
+
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
@@ -37,12 +37,17 @@
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
 
 #### Embedded & IoT
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?logo=espressif&logoColor=white)
 ![LVGL](https://img.shields.io/badge/LVGL-000000?logo=lvgl&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-000000?logo=sdl&logoColor=white)
+![SDL3](https://img.shields.io/badge/SDL3-000000?logo=sdl&logoColor=white)
 
 #### Development Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
@@ -51,20 +56,23 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 
 #### Cloud & Services
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 
 #### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linux-mint&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 #### Hardware & Electronics
+
 ![PCB](https://img.shields.io/badge/PCB-000000?logo=pcb&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
-
 
 <br><br>
 
