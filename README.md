@@ -53,7 +53,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-DC143C?logo=mathworks&logoColor=white)
 
 #### Cloud & Services
 
