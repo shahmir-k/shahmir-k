@@ -59,7 +59,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
 
 #### Operating Systems
 
@@ -73,6 +72,9 @@
 
 ![PCB](https://img.shields.io/badge/PCB-000000?logo=pcb&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DC143C?logo=dassaultsystemes&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF8C00?logo=autodesk&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-228B22?logo=onshape&logoColor=white)
 
 <br><br>
 
