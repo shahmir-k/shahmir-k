@@ -108,13 +108,13 @@ Rust, MATLAB, Kotlin
 
 ## Embedded Systems
 
-[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=ArduinoBlueIris)](https://github.com/shahmir-k/ArduinoBlueIris)
-<br>
-[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=PureC-LVGL-v9-SDL2-Example-Without-Display-Driver)](https://github.com/shahmir-k/PureC-LVGL-v9-SDL2-Example-Without-Display-Driver)
-<br>
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=AutoGarden)](https://github.com/shahmir-k/AutoGarden)
 <br>
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=GrowBox-AutoRefill)](https://github.com/shahmir-k/GrowBox-AutoRefill)
+<br>
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=ArduinoBlueIris)](https://github.com/shahmir-k/ArduinoBlueIris)
+<br>
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=PureC-LVGL-v9-SDL2-Example-Without-Display-Driver)](https://github.com/shahmir-k/PureC-LVGL-v9-SDL2-Example-Without-Display-Driver)
 
 ## Personal Electric Vehicles
 
@@ -125,6 +125,10 @@ Rust, MATLAB, Kotlin
 ## Other
 
 [![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=radiomaster-tx16s-mods)](https://github.com/shahmir-k/radiomaster-tx16s-mods)
+<br>
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=BladeTheoryXL)](https://github.com/shahmir-k/BladeTheoryXL)
+<br>
+[![Readme Card](https://github-readme-stats-phi-dusky.vercel.app/api/pin/?username=shahmir-k&repo=3DPrinter_blueSquidward)](https://github.com/shahmir-k/3DPrinter_blueSquidward)
 
 <!--
 
